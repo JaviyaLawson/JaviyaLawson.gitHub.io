@@ -6,7 +6,7 @@
  
  ### Camera Effects
  
-![picture_title](picture filename?raw=true "Optional Title")
+![batman](picture filename?raw=true "BATMAN ")
  
  Syntax highlighted code block
  
