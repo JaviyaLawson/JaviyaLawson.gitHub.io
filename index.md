@@ -4,11 +4,9 @@
  
  Whenever you commit to this repository, GitHub pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your markdown files.
  
- ### Markdown
+ ### Camera Effects
  
- Markdown is a lightweight and easy-to-use syntax fro styling your writing. It includes conventions for 
- 
- '''markdown
+![picture_title](picture filename?raw=true "Optional Title")
  
  Syntax highlighted code block
  
@@ -20,3 +18,4 @@
  
  - Bulleted
  - List
+ 
