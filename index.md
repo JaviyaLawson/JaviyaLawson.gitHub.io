@@ -4,18 +4,13 @@
  
  Whenever you commit to this repository, GitHub pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your markdown files.
  
+***
+
+###Camera Effects
  
- 
- ![Batman](picture filename?raw=true "BATMAN")
+![Batman](picture filename?raw=true "BATMAN")
 
 ***
  
-# Header 1
 
-## Header 2
 
-### Camera Effects
- 
- -  ![Batman](picture filename?raw=true "BATMAN")
- - List
- 
