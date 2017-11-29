@@ -7,8 +7,8 @@
  ### Camera Effects
  
 ![batman](picture filename?raw=true "BATMAN ")
- 
- Syntax highlighted code block
+
+***
  
 # Header 1
 
