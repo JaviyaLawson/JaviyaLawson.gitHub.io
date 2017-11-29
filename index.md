@@ -6,7 +6,7 @@
  
  ### Camera Effects
  
-![batman](picture filename?raw=true "BATMAN ")
+ ![Batman](picture filename?raw=true "BATMAN ")
 
 ***
  
